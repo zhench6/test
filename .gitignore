@@ -6,7 +6,6 @@ npm-debug.log
 #仅仅忽略 demo/.svn文件 
 demo/.svn/ 
 .sass-cache 
-#忽略所有以.swp结尾的文件 
-*.swp 
-.sw* 
+#忽略所有以.swp结尾的文件  
+*.sw* 
 .idea/*
